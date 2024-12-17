@@ -1,4 +1,33 @@
-## Hi there 👋
+### 🏒 Carter Harms 
+
+**API Integration / Data Engineering / Workflow Architecture**
+<br />
+🌇 Integrations specialist by day 
+🌆 MSc Computer Science student by night
+🍵 And fervent reader by a cup of tea
+
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />
+
+<br />
+
+### 🔎 Status
+💻 I am currently working on parser for an independent project
+<br />
+🌱 I am currently learning network methodologies
+
+
+
 
 <!--
 **Carharms/Carharms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1> </h1>
