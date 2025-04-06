@@ -22,9 +22,9 @@
 <br />
 
 ### 🔎 Status
-💻 I am currently working on parser for an independent project
+💻 Current development work (private project) related to AI financial analytics (i.e Piotroski F-Score, etc.) 
 <br />
-🌱 I am currently learning network methodologies
+🌱 Currently improving knowledge of database architecture in my Master's program
 
 
 
