@@ -2,9 +2,12 @@
 
 **Program Management / Client Engineering / Systems Architecture**
 <br />
-🌇 Integrations specialist by day <br/>
-🌆 MSc Computer Science student by night <br/>
-🍵 Fervent reader by a cup of tea <br/>
+🌇 Integrations specialist by day 
+<br/>
+🌃 MSc Computer Science student by night 
+<br/>
+🍵 Fervent reader by a cup of tea 
+<br/>
 
 ### ✍️ Languages
 
@@ -22,6 +25,7 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />
