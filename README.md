@@ -1,5 +1,7 @@
 ### 🏒 Carter Harms 
 
+*"Computer Science is no more about computers than astronomy is about telescopes." - Edsger Dijkstra*
+
 **Program Management / Client Engineering / Systems Architecture**
 <br />
 🌇 Integrations specialist by day 
