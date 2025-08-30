@@ -36,7 +36,7 @@
 <br/>
 
 ### 🚀 What I'm Currently Working On / Learning
-💻 Current development work related to web app development 
+💻 Currently developing an Media Web Application -> Media Mobile Application
 <br />
 🌱 Currently studying DevOps softwares and practices in my Master's Program
 
